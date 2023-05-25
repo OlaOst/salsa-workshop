@@ -1,4 +1,4 @@
-name: Build and push to GitHub OCI registry
+name: Build and push to GitHub OCI registry (cannot trigger workflow in github??)
 on:
   push:
     branches:
